@@ -4,8 +4,8 @@ body {
   display: grid;
   place-items: center;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  background: #141312;
-  color: #f5eedc;
+  background: #4871f6;
+  color: #b2a86c;
 }
 
 main {
@@ -22,7 +22,7 @@ h1 {
 }
 
 a {
-  color: #e5a93c;
+  color: #00ff51;
   text-decoration: none;
   font-weight: 600;
 }
